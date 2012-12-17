@@ -1,0 +1,78 @@
+package dk.rubenc.kalorievagten.shared;
+
+import com.google.gwt.i18n.client.Constants;
+
+
+public interface KvConstants_dk extends Constants {
+
+	String Training();
+	String Male();
+	String Female();
+	String Save();
+	String fName();
+	String sName();
+	String city();
+	String address();
+	String zip();
+	String sex();
+	String BMI();
+	String height();
+	String email();
+	String choose();
+	String saved();
+	String notSaved();
+	String add();
+	String delete();
+	String find();
+	String road();
+	String mtb();
+	String power();
+	String running();
+	String skateing();
+	String upss();
+	String fillError1();
+	String close();
+	String date();
+	String type();
+	String time();
+	String max();
+	String at();
+	String sat();
+	String base();
+	String strength();
+	String distance();
+	String energy();
+	String comments();
+	String refresh();
+	String kilojoule();
+	String kilocal();
+	String explainUnit();
+	String weight();
+	String unitEnergy();
+	String getSessions();
+	String edit();
+	String dateFrom();
+	String dateTo();
+	String id();
+	String personalInformation();
+	String trainingBetween();
+	String getUnsuccesful();
+	String getSuccesful();
+	String error();
+	String gotLastSessions();
+	String meals();
+	String ingreedients();
+	String consumed();
+	String toolTipDateFrom();
+	String toolTipDateTo();
+	String toolTipTimeBox();
+	String toolTipMax();
+	String toolTipAt();
+	String toolTipSubAt();
+	String toolTipBase();
+	String toolTipPower();
+	String toolTipStrengt();
+	String toolTipDistance();
+	String toolTipEnergy();
+	String toolTipCommments();
+}

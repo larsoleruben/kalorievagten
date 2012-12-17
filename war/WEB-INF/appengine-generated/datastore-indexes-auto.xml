@@ -1,0 +1,11 @@
+<!-- Indices written at Sun, 12 Feb 2012 21:53:03 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="KVTrainingSessionSv" ancestor="false" source="auto">
+        <property name="userID" direction="asc"/>
+        <property name="doneDate" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>

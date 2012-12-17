@@ -1,0 +1,2 @@
+serviceClass: dk.rubenc.kalorievagten.client.rpc.RpcService
+path: 957A1A82F624A5818467078A7C1AEC49.gwt.rpc
